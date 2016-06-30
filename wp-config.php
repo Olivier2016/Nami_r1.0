@@ -54,6 +54,8 @@ define('AUTH_SALT',        '*aG#o&e0v-W&~{c,+:gb2..ZQgFbB.M+g@m> ,9G/#!+LzfSMt*H
 define('SECURE_AUTH_SALT', 'OhXk9zp)JI?>JX(?;a4`KHi&e}j9kU>$K0LpidDT4FJpB+#j;xIuz+Jczh8`.99i');
 define('LOGGED_IN_SALT',   'lp/]z;kt8h,8xKEiu#nZb.m-y;.Jt<VGVek2XK%-g,UF%=;,Cr+N&c7*Ad[i#h{/');
 define('NONCE_SALT',       'ZfHYm?E9;hW[() Zp`|n{h38{q$KIutQKiDb}WtG0Do:o]_7|Z7@;_NLvbxe>6G7');
+define('WP_HOME','http://cmsaxa.decagone.net');
+define('WP_SITEURL','http://cmsaxa.decagone.net');
 
 /**#@-*/
 
